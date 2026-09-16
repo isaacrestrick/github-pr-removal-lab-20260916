@@ -1,1 +1,2 @@
-Demo feature: first revision
+Demo feature: second revision
+Display status: ready
