@@ -1,0 +1,2 @@
+# FAKE test fixture; never a real credential
+API_KEY=FAKE-KEY-DO-NOT-USE-20260916-PR-HISTORY-LAB
